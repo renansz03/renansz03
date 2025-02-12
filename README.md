@@ -4,7 +4,7 @@ Eu sou <strong>Renan</strong>, <strong>estou no meu primeiro período em Anális
 
 - 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
 - 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Português🇧🇷 / Inglês🇺🇸</strong>
+- 📣 Nós podemos falar em: <strong>Português / Inglês</strong>
 
 <div align="center">
 
