@@ -2,8 +2,7 @@
 
 Eu sou <strong>Renan</strong>, <strong>estou no meu primeiro período em Análise e Desenvoilvimento de Sistemas. Vou mostrar aqui todos os meus trabalhos e projetos desenvolvidos na faculdade!</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
+- 💬 Pergunte-me sobre: <strong>Cinema, games, idiomas, design gráfico ou qualquer coisa que envolva ADS!</strong>
 - 📣 Nós podemos falar em: <strong>Português / Inglês</strong>
 
 <div align="center">
